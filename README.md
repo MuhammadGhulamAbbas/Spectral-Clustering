@@ -1,1 +1,1 @@
-# Spectral-Clustering
+# Spectral-Clustering and Affinity Propagation
